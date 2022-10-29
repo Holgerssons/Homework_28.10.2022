@@ -1,0 +1,21 @@
+img {
+	width: 120px;
+	
+}
+.leftimg {
+	float: left;
+	margin: 8px 8px 8px 0;
+}
+.size-1 {
+	font-size: 18px;
+}
+.size-2 {
+	font-size: 14px;
+}
+.interval {
+	margin-top: 40px;	
+}
+.side {
+	font-size: 14px;
+	float: right;
+}
